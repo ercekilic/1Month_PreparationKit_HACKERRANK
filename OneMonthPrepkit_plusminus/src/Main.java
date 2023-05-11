@@ -23,7 +23,7 @@ class Result {
               if(seco<0){
                    negatif++;
               }
-              if (seco==0){
+              if (secooooooo==0){
                   sifir++;
               }
               if (seco>0){
